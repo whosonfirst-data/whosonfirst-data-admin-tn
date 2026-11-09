@@ -64,7 +64,7 @@
         "wk:page":"Bou_Merdes"
     },
     "wof:country":"TN",
-    "wof:geomhash":"3e22eb02f96f6723cd5fe156a140eb15",
+    "wof:geomhash":"1a45a3051319d4bfd8a3a2cc8a51ce8d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     10.72809,
     35.45715999999999
 ],
-  "geometry": {"coordinates":[10.72809,35.45715999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.72809,35.45716],"type":"Point"}
 }

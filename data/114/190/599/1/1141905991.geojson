@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"TN",
     "wof:created":1499130525,
-    "wof:geomhash":"eb8898d35f9bf752f6ad65f3b7a3b99b",
+    "wof:geomhash":"269e2ab7cd77fb28a273c47036a52989",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,5 +150,5 @@
     10.19999754747926,
     36.86667315344494
 ],
-  "geometry": {"coordinates":[10.19999754747926,36.86667315344494],"type":"Point"}
+  "geometry": {"coordinates":[10.199998,36.866673],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Kalaat_es_Senam"
     },
     "wof:country":"TN",
-    "wof:geomhash":"7d6f29ce24afe792cab6643ac370f13c",
+    "wof:geomhash":"9f17d8e1d3552c89f75a0ad193dedfce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     8.34234,
     35.76819000000001
 ],
-  "geometry": {"coordinates":[8.34234,35.76819000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.34234,35.76819],"type":"Point"}
 }

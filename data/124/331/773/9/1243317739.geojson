@@ -81,7 +81,7 @@
         "wk:page":"El_Mourouj"
     },
     "wof:country":"TN",
-    "wof:geomhash":"c0c97c522b53960049ae73123105d38c",
+    "wof:geomhash":"80d36e00410ad2b0bb23389316f46751",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,5 +107,5 @@
     10.2096,
     36.71364000000001
 ],
-  "geometry": {"coordinates":[10.2096,36.71364000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.2096,36.71364],"type":"Point"}
 }

@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
-    "wof:geomhash":"15c0ebc7cb19535569ea598c3baa56b1",
+    "wof:geomhash":"99ebd86ab26a7fb04b77e7748034c35b",
     "wof:id":85907361,
     "wof:repo":"whosonfirst-data-admin-tn"
 },
@@ -14,5 +14,5 @@
     10.178902,
     36.7992465
 ],
-  "geometry": {"coordinates":[10.178902,36.7992465],"type":"Point"}
+  "geometry": {"coordinates":[10.178902,36.799247],"type":"Point"}
 }

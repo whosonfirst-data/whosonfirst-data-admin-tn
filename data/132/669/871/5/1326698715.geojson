@@ -46,7 +46,7 @@
         "gn:id":2473073
     },
     "wof:country":"TN",
-    "wof:geomhash":"d360cd7b4493ffda39b2e7551b5382ec",
+    "wof:geomhash":"c8d6d57c256a31f73742b3b840341438",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     10.26141,
     35.97942000000001
 ],
-  "geometry": {"coordinates":[10.26141,35.97942000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.26141,35.97942],"type":"Point"}
 }
